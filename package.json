@@ -1,0 +1,42 @@
+{
+  "name": "@creator-scope/angular-ui-library",
+  "version": "1.0.0",
+  "description": "A reusable Angular UI component library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "ui",
+    "components",
+    "library"
+  ],
+  "author": "Creator",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^16.0.0 || ^17.0.0",
+    "@angular/core": "^16.0.0 || ^17.0.0"
+  },
+  "devDependencies": {
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "typescript": "^5.2.0",
+    "rxjs": "^7.8.0",
+    "zone.js": "^0.14.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/angular-ui-library.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
