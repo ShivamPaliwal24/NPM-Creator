@@ -1,6 +1,6 @@
 {
-  "name": "@shivampaliwal24/angular-ui-library",
-  "version": "1.0.0",
+  "name": "ng-modern-ui-kit",
+  "version": "1.0.1",
   "description": "A reusable Angular UI component library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
