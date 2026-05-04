@@ -1,5 +1,5 @@
 {
-  "name": "angular-ui-library",
+  "name": "@shivampaliwal24/angular-ui-library",
   "version": "1.0.0",
   "description": "A reusable Angular UI component library",
   "main": "dist/index.js",
@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shivampaliwal24/angular-ui-library.git"
+    "url": "https://github.com/ShivamPaliwal24/NPM-Creator.git"
   },
   "publishConfig": {
     "access": "public"
